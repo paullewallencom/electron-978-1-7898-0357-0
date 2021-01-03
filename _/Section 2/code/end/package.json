@@ -1,0 +1,14 @@
+{
+  "name": "doctor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set ELECTRON_DISABLE_SECURITY_WARNINGS=true && electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.4"
+  }
+}
